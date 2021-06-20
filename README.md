@@ -1,4 +1,6 @@
 # nlp-augment
+https://pypi.org/project/nlp-augment/
+
 It takes an sentence as an input and augment it based on sense, pos tag synonym and synonyms.
 
 ## Installation
